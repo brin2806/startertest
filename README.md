@@ -1,0 +1,2 @@
+# startertest
+Starter Django project
